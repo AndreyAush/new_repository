@@ -20,3 +20,6 @@ https://github.com/AndreyAush/new_repository.git
 
 
 eshe novoe
+
+
+25 строка
