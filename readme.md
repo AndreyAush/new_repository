@@ -13,3 +13,6 @@ readme.m
 конфликты
 
 разрешаем конфликт в браузерt
+
+
+https://github.com/AndreyAush/new_repository.git
